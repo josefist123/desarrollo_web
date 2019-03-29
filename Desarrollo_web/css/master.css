@@ -1,0 +1,71 @@
+/*
+#  ·················
+#  ··_______________
+#  ·/·___/·___/·___/
+#  /·/__(__··|__··)·
+#  \___/____/____/··
+#  ·················
+*/
+
+html, body{
+  padding: 0%;
+  margin: 0%
+}
+
+.img_pral{
+  display: flex;
+  padding-bottom: 20px
+
+}
+
+.title_pral{
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+  font-family: futura, bold;
+  color: #707070
+}
+
+.contenido_blog{  
+  color: #707070;
+  font-family: Circular Std Book, Arial, sans-serif !important;
+  font-size: 20px;
+  padding: 20%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 30px
+} 
+
+.img_medium{
+  display: flex;
+  padding: 20%;
+  padding-top: 20px;
+  padding-bottom: 10px
+} 
+
+.important_text{
+  color: #587792;
+  font-family: circular std, italic;
+  text-align: center;
+  font-size: 25px;
+  padding: 20%;
+  padding-top: 10px;
+  padding-bottom: 10px
+}
+
+footer{
+  display: flex;
+  padding:10px;
+  align-items: center;
+  background-color:#587792;
+  color: white;
+  justify-content: space-between;
+}
+
+.img_footer{
+  padding-left: 10%
+}
+
+
+
+
